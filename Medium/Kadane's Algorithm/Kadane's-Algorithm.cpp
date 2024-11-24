@@ -12,7 +12,6 @@ Explanation: Max subarray sum is -1 of element (-1)
 Input: arr[] = [5, 4, 7]
 Output: 16
 Explanation: Max subarray sum is 16 of element (5, 4, 7)
-
 */
 
 class Solution {
