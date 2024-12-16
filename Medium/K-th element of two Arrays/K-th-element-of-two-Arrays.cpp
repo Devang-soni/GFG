@@ -55,8 +55,7 @@ public:
                 return current;
             }
             i++;
-        }
-        
+        } 
      
         while (j < m) {
             current = arr2[j];
