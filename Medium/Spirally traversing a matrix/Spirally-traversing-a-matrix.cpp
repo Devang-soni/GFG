@@ -17,7 +17,6 @@ Output: [1, 2, 3, 4, 8, 12, 11, 10, 9, 5, 6, 7]
 Explanation: Applying same technique as shown above, output for the 2nd testcase will be 1 2 3 4 8 12 11 10 9 5 6 7.
 */
 
-
 int n = matrix.size();
         int m = matrix[0].size();
         int left = 0, right = m-1;
